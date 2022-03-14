@@ -8,7 +8,7 @@
 ->Os
 ->Time 
 
-##Warning, the application may not work properly in versions other than these versions!  
+## Warning, the application may not work properly in versions other than these versions!  
 
 
 This application detects the human hand and controls the virtual menu buttons created with opencv according to the distance between the fingers.
